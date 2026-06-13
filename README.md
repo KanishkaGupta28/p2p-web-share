@@ -3,8 +3,8 @@
 A lightweight, decentralized peer-to-peer file sharing web application that enables direct browser-to-browser file transfers with end-to-end encryption. No file data ever touches the server.
 
 ## Live Demo
-- Frontend: [Coming after deployment]
-- Backend: [Coming after deployment]
+- Frontend: https://p2p-web-share-ten.vercel.app
+- Backend: https://p2p-web-share-bx12.onrender.com
 
 ## Features
 
