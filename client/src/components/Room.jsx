@@ -19,7 +19,7 @@ import {
 } from '../utils/fileStorage'
 
 // Signaling server URL
-const SIGNAL_SERVER = 'http://localhost:3001'
+ const SIGNAL_SERVER = 'https://p2p-web-share-bx12.onrender.com'
 
 // Size of each file chunk sent over WebRTC (16KB)
 const CHUNK_SIZE = 16384
