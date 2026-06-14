@@ -14,6 +14,15 @@ const cors = require("cors");
 const app = express();
 app.use(cors());
 
+// Health check route — shows server is running
+app.get('/', (req, res) => {
+  res.json({
+    status: 'online',
+    service: 'P2P Web Share - Signaling Server',
+    message: 'This server coordinates WebRTC handshakes only. No file data is processed here.'
+  });
+});
+
 const server = http.createServer(app);
 
 // Initialize Socket.io with CORS for frontend
