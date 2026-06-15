@@ -105,7 +105,7 @@ Client runs on `http://localhost:5173`
 - Watch the file transfer directly between browsers!
 
 ## Demo Video
-[Coming after recording]
+[Watch Demo Video](https://drive.google.com/file/d/1wP82jfo1fgsoZL5Ch24rKV3kVmzNesxy/view?usp=sharing)
 
 ## Security
 - Files are encrypted with AES-256-GCM before transmission
