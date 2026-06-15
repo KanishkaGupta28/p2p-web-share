@@ -2,6 +2,9 @@
 
 A lightweight, decentralized peer-to-peer file sharing web application that enables direct browser-to-browser file transfers with end-to-end encryption. No file data ever touches the server.
 
+## Demo Video
+[Watch Demo Video](https://drive.google.com/file/d/1wP82jfo1fgsoZL5Ch24rKV3kVmzNesxy/view?usp=sharing)
+
 ## Live Demo
 - Frontend: https://p2p-web-share-ten.vercel.app
 - Backend: https://p2p-web-share-bx12.onrender.com
@@ -104,8 +107,6 @@ Client runs on `http://localhost:5173`
 - Copy the link and open it in another browser window
 - Watch the file transfer directly between browsers!
 
-## Demo Video
-[Watch Demo Video](https://drive.google.com/file/d/1wP82jfo1fgsoZL5Ch24rKV3kVmzNesxy/view?usp=sharing)
 
 ## Security
 - Files are encrypted with AES-256-GCM before transmission
